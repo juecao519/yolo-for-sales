@@ -1,0 +1,21 @@
+# YOLOv8 饮料识别数据集配置文件
+# 数据集路径配置
+path: ../dataset  # 数据集根目录
+train: images/train  # 训练图片路径
+val: images/val      # 验证图片路径
+
+# 类别配置
+nc: 10  # 类别数量 (0-9)
+names: ['cola', 'pepsi', 'sprite', 'fanta', 'spring', 'ice', 'scream', 'milk', 'red', 'king']  # 类别名称
+
+# 类别映射说明:
+# 0: 可口可乐 (cola)
+# 1: 百事可乐 (pepsi) 
+# 2: 雪碧 (sprite)
+# 3: 芬达 (fanta)
+# 4: 矿泉水 (spring)
+# 5: 冰红茶 (ice)
+# 6: 尖叫 (scream)
+# 7: 旺仔牛奶 (milk)
+# 8: 红牛 (red)
+# 9: 王老吉 (king) 

@@ -1,0 +1,10 @@
+{
+  "timestamp": "20250618_160254",
+  "image_path": "E:\\yolo\\dataset\\test\\1s.jpg",
+  "drink_count": {
+    "ice": 1,
+    "spring": 2,
+    "scream": 1
+  },
+  "total_drinks": 4
+}

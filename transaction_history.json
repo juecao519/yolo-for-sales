@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2025-06-21 15:52:29",
+    "purchase": {
+      "fanta": {
+        "reduced": 1,
+        "price_per_unit": 3.0,
+        "total_price": 3.0
+      },
+      "sprite": {
+        "reduced": 1,
+        "price_per_unit": 3.0,
+        "total_price": 3.0
+      },
+      "pepsi": {
+        "reduced": 1,
+        "price_per_unit": 3.0,
+        "total_price": 3.0
+      },
+      "cola": {
+        "reduced": 1,
+        "price_per_unit": 3.0,
+        "total_price": 3.0
+      }
+    },
+    "total_amount": 12.0
+  }
+]

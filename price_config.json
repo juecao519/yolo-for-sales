@@ -1,0 +1,26 @@
+{
+  "cola": 3.0,
+  "pepsi": 3.0,
+  "sprite": 3.0,
+  "fanta": 3.0,
+  "spring": 2.0,
+  "ice": 3.5,
+  "scream": 4.0,
+  "milk": 4.5,
+  "red": 6.0,
+  "king": 4.0,
+  "description": {
+    "cola": "可口可乐",
+    "pepsi": "百事可乐",
+    "sprite": "雪碧",
+    "fanta": "芬达",
+    "spring": "矿泉水",
+    "ice": "冰红茶",
+    "scream": "尖叫",
+    "milk": "旺仔牛奶",
+    "red": "红牛",
+    "king": "王老吉"
+  },
+  "currency": "CNY",
+  "unit": "瓶"
+} 

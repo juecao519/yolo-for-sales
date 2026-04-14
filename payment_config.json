@@ -1,0 +1,17 @@
+{
+  "wechat": {
+    "enabled": true,
+    "auto_pay": true,
+    "success_rate": 0.95
+  },
+  "alipay": {
+    "enabled": true,
+    "auto_pay": true,
+    "success_rate": 0.98
+  },
+  "postpaid": {
+    "enabled": true,
+    "max_debt": 100.0,
+    "payment_deadline_days": 7
+  }
+}
